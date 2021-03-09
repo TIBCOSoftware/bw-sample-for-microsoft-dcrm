@@ -1,6 +1,7 @@
 # TIBCO Cloud Integgration Sample for Microsoft DCRM
 ## Synopsis
 This project is a sample of how to use the TIBCO ActiveMatrix BusinessWorks Plug-in for Microsoft DCRM within the context of TIBCO Cloud Integration to create an account.
+
 Note: Authentication values such as tokens and usernames/passwords are dummy values and will need to be updated for the sample to deploy properly.
 
 ## Process Diagram
